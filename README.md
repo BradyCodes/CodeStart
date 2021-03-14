@@ -21,8 +21,8 @@ Hampstead/Manchester Area
 
 
 ### Start Date - March 13, 4:00 pm
-<br>
+
 ### Last Updated: March 14, 7:08pm
-<br>
+
 ### Finished: ___________
 
