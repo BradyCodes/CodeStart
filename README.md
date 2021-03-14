@@ -2,7 +2,10 @@
 ## _Website for new teaching startup_
 <br>
 <br>
-> blockquote
+The overriding goal of Coestart<br>
+Is to 1.) Teach kids to code<br>
+And 2.) Create a computer nerd / programming group/enviroment in the<br>
+Hampstead/Manchester Area
 
 
 ### TODO:
