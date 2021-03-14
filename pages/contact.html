@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../style.css">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Codestart | Contact</title>
+</head>
+<body>
+
+
+    <nav>
+        <h1 class="logo" onclick="redir('../index.html');"> C | S </h1>
+        <div class="def">
+            <ul>
+                <li class="special"><a href="register.html">Register</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="../index.html">Home</a></li>
+            </ul>
+        </div>
+        <div class="mobile">
+            <i class="material-icons menu" onclick="drop()">menu</i>
+            <div class="dropdown">
+                <a href="../index.html">Home</a>
+                <a href="about.html">About</a>
+                <a href="contact.html">Contact</a>
+                <a href="register.html">Register</a>
+            </div>
+        </div>
+    </nav>
+    <div class="defaultSection"></div>
+    <div class="mobileSection">
+        <style>
+            .registerspecial{
+                display: flex;
+                flex-direction: row;
+                flex-wrap: wrap;
+                justify-content: center;
+                align-items: center;
+            }
+            .registerspecial ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+            }
+
+            .registerspecial li {
+                float: left;
+            }
+
+            .registerspecial li a {
+                display: block;
+                color: #000;
+                background-color: #fff;
+                text-align: center;
+                padding: 16px;
+                text-decoration: none;
+                border: 1px solid black;
+            }
+            .registerspecial li a:hover{
+                color: #fff;
+                background: #000;
+                transition: 0.3s;
+                cursor: pointer;
+            }
+        </style>
+        <p>Contact Brady with any questions related to cirriculumn, COVID policies, or pricing:</p>
+        <div class="registerspecial">
+            <ul>
+                <li><a href="mailto:jbredding24@gmail.com">Email</a></li>
+                <li><a href="tel:+14104533496">Call</a></li>
+                <li><a href="sms:+14104533496&body=Hi There, I just had a quick question about">Text</a></li>
+            </ul>
+
+
+
+            <!--<li><a style="padding: 15px; border: 1px solid black; text-decoration: none;" href="mailto:jbredding24@gmail.com">Email</a></li>
+            <li><a  href="sms:+14104533496&body=Hi There, I just had a quick question about">Text</a></li>
+            <li><a  href="tel:+14104533496">Call</a></li>-->
+        </div>
+    </div>
+
+</body>
+<script src="../app.js"></script>
+</html>
