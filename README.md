@@ -16,7 +16,7 @@ Hampstead/Manchester Area
 - [ ] Make Register Page
 - [ ] Make About Page
 - [ ] Create Code DataBase / Examples
-- [ ] Finish Landing Page
+- [x] Finish Landing Page
 
 
 
