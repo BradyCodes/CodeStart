@@ -76,12 +76,6 @@ nav{
     .def{
         display: none;
     }
-    .defaultSection{
-        display: none;
-    }
-    .mobileSection{
-        display: block;
-    }
     .mobile{
         color: #000;
         display: block;
