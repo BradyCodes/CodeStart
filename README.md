@@ -22,6 +22,7 @@ Hampstead/Manchester Area
 - [ ] Day 4 Resource, Code, Examples
 - [ ] Day 5 Resource, Code, Examples
 - [x] Finish Landing Page
+- [ ] M A K E  L A N D I N G  P A G E  M O B I L E  F R I E N D L Y 
 
 
 
