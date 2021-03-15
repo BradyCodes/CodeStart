@@ -15,14 +15,19 @@ Hampstead/Manchester Area
 - [x] Make it so that you can call on mobile but see number on desktop
 - [ ] Make Register Page
 - [ ] Make About Page
-- [ ] Create Code DataBase / Examples
+- [ ] Better Readme (Screen Shots)
+- [ ] Day 1 Resource, Code, Examples
+- [ ] Day 2 Resource, Code, Examples
+- [ ] Day 3 Resource, Code, Examples
+- [ ] Day 4 Resource, Code, Examples
+- [ ] Day 5 Resource, Code, Examples
 - [x] Finish Landing Page
 
 
 
 ### Start Date - March 13, 4:00 pm
 
-### Last Updated: March 14, 9:19pm
+### Last Updated: March 14, 9:21pm
 
 ### Finished: ___________
 
