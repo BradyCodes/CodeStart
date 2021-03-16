@@ -4,12 +4,21 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="reg.css">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Codestart | Register</title>
 </head>
 <body>
+
+    <style>
+        .phonepage{display: none;}
+        @media screen and (max-width: 800px){
+            .comppage{display: none;}
+            .phonepage{display: block;}
+        }
+    </style>
+
 
 
     <nav>
@@ -32,6 +41,45 @@
             </div>
         </div>
     </nav>
+
+    <br>
+
+    <main>
+        <div class="comppage">
+            <div class="registergridcomp">
+                <div class="titles">
+                    <p class="title">Class</p>
+                    <p class="age">Age Group</p>
+                    <p class="datetime">Date</p>
+                    
+                    <p>Register</p>
+                </div>
+                <div style="padding-top: 5%"></div>
+                <div class="options">
+                    <p class="title">Summer Coding Class</p>
+                    <p class="age">10-15</p>
+                    <p class="datetime">July 5-10, 11am-3pm</p>
+                    <div class="container">
+                        <div class="center">
+                            <a href="#" class="book">Book</a>
+                        </div>
+                      </div>
+                </div>
+                <div style="padding-top: 5%"></div>
+                <div class="options">
+                    <p class="title">Private Lessons</p>
+                    <p class="age">10-15</p>
+                    <p class="datetime"><a class="contactformoreinfo" href="contact.html"> Contact for available times </a></p>
+                    <div class="container">
+                        <div class="center">
+                            <a href="#" class="book">Book</a>
+                        </div>
+                      </div>
+                </div>
+            </div>
+        </div>
+        <div class="phonepage"></div>
+    </main>
 
 
 
