@@ -8,7 +8,7 @@ And 2.) Create a computer nerd / programming group/enviroment in the<br>
 Hampstead/Manchester Area
 
 
-![Test](assets/backgroundHome.png)
+![Test]("https://raw.githubusercontent.com/BradyCodes/CodeStart/main/Assets/backgroundHome.png")
 ### TODO
 - [x] Create Head Navigation Bar
 - [x] Make ^^^ Mobile friendly
