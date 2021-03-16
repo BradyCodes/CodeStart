@@ -12,7 +12,7 @@ Hampstead/Manchester Area
 - [x] Make ^^^ Mobile friendly
 - [x] Create Contact Page
 - [x] Make it so that you can call on mobile but see number on desktop
-- [ ] Make Register Page
+- [x] Make Register Page
 - [ ] Make About Page
 - [x] Better Readme (Screen Shots)
 - [ ] Day 1 Resource, Code, Examples
