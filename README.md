@@ -8,7 +8,8 @@ And 2.) Create a computer nerd / programming group/enviroment in the<br>
 Hampstead/Manchester Area
 
 
-### TODO:
+![Test](assets/backgroundHome.png)
+### TODO
 - [x] Create Head Navigation Bar
 - [x] Make ^^^ Mobile friendly
 - [x] Create Contact Page
