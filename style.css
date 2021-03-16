@@ -82,6 +82,10 @@ nav{
         color: #000;
         display: block;
     }
+    .mobii{
+        display: block;
+    }
+    
 
 }
 
@@ -123,4 +127,11 @@ nav{
     background-color: #fff;
     font-weight: bold;
     border: 1px solid black;
+}
+
+
+.mobii{
+    display: none;
+    background-image: none;
+    color: #000;
 }
