@@ -22,12 +22,14 @@ Hampstead/Manchester Area
 - [ ] Day 5 Resource, Code, Examples
 - [x] Finish Landing Page
 - [ ] M A K E  L A N D I N G  P A G E  M O B I L E  F R I E N D L Y 
+- [ ] Register Popup / new page?
+- [ ] register.html Mobile Friendly
 
 
 
 ### Start Date - March 13, 4:00 pm
 
-### Last Updated: March 15, 8:54 pm
+### Last Updated: March 15, 9:02 pm
 
 ### Finished: ___________
 
