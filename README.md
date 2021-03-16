@@ -1,5 +1,11 @@
 # CodeStart
 ## _Website for new teaching startup_
+
+!!!!!!! NOTE !!!!!!! 
+line 14-22 of register.html
+
+
+
 <br>
 <br>
 The overriding goal of Coestart<br>
