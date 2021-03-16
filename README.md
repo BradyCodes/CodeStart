@@ -7,8 +7,6 @@ Is to 1.) Teach kids to code<br>
 And 2.) Create a computer nerd / programming group/enviroment in the<br>
 Hampstead/Manchester Area
 
-
-![Test](https://raw.githubusercontent.com/BradyCodes/CodeStart/main/Assets/ScreenShot1.png)
 ### TODO
 - [x] Create Head Navigation Bar
 - [x] Make ^^^ Mobile friendly
@@ -16,7 +14,7 @@ Hampstead/Manchester Area
 - [x] Make it so that you can call on mobile but see number on desktop
 - [ ] Make Register Page
 - [ ] Make About Page
-- [ ] Better Readme (Screen Shots)
+- [x] Better Readme (Screen Shots)
 - [ ] Day 1 Resource, Code, Examples
 - [ ] Day 2 Resource, Code, Examples
 - [ ] Day 3 Resource, Code, Examples
@@ -33,3 +31,8 @@ Hampstead/Manchester Area
 
 ### Finished: ___________
 
+
+
+<br>
+<br>
+![Photo of landing page](https://raw.githubusercontent.com/BradyCodes/CodeStart/main/Assets/ScreenShot1.png)
