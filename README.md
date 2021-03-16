@@ -35,4 +35,4 @@ Hampstead/Manchester Area
 
 <br>
 <br>
-![Photo of landing page](https://raw.githubusercontent.com/BradyCodes/CodeStart/main/Assets/ScreenShot1.png)
+![Screenshot](https://raw.githubusercontent.com/BradyCodes/CodeStart/main/Assets/ScreenShot1.png)
