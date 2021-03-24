@@ -39,7 +39,7 @@
             <input type="text" placeholder="Parents Name" id="pName">
             <input type="text" placeholder="Childs Name" id="cName">
             <span>Age:</span>
-            <select id="cars" name="cars">
+            <select id="age" name="age">
                 <option value="10">10</option>
                 <option value="11">11</option>
                 <option value="12">12</option>
@@ -49,9 +49,14 @@
             </select>
             <input type="text" placeholder="Email" id="email">
             <input type="text" placeholder="Emergency Phone Number" id="phone">
+            <button type="submit" onclick="send()">Submit</button>
+            <br><br>
+            <h3>Please Note that all payments will be due the first day of camp in the form of cash, or check to Brady Redding</h3>
         </div>
     </main>
 
 </body>
 <script src="../app.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
+<script src="../emailjsfunctionality.js"></script>
 </html>
