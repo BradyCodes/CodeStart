@@ -28,8 +28,8 @@ Hampstead/Manchester Area
 - [ ] Day 5 Resource, Code, Examples
 - [x] Finish Landing Page
 - [ ] M A K E  L A N D I N G  P A G E  M O B I L E  F R I E N D L Y 
-- [ ] Register Popup / new page?
-- [ ]     Finish styling
+- [x] Register Popup / new page?
+- [x]     Finish styling
 - [x]     Email.js
 - [ ] register.html Mobile Friendly
 
