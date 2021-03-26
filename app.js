@@ -30,4 +30,3 @@ document.getElementById('close').addEventListener('click', function(){
     document.getElementById('myModal').style.display = 'none';
 });
 
-
