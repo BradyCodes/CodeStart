@@ -32,6 +32,8 @@ Hampstead/Manchester Area
 - [x]     Finish styling
 - [x]     Email.js
 - [ ] register.html Mobile Friendly
+- [ ] Add More info to the register pages
+- [ ] START ON SYLABUS FOR SUMMER CAMP
 
 
 
