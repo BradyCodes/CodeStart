@@ -27,9 +27,9 @@
         emailjs.send('YOUR SERVICE ID', 'YOUR TEMPLATE ID', templateParams, 'YOUR USER ID')
             .then(function(response) {
             console.log('SUCCESS!', response.status, response.text);
-            //setTimeout(() => {
-            //    document.location.href = "redir.html";
-            //}, 1000);
+            setTimeout(() => {
+                document.location.href = "redir.html";
+            }, 1000);
             }, function(error) {
             console.log('FAILED...', error);
             document.write('Something went wrong... Refresh the page and try again - sorry for the inconvenience!')
