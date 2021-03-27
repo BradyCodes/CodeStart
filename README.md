@@ -31,6 +31,41 @@ Hampstead/Manchester Area
 - [ ] START ON SYLABUS FOR SUMMER CAMP
 
 
+- [ ] Day 1:
+- [ ] Resorces (W3 Schools, Predone Code, Etc)
+- [ ] Examples (Basic Website)
+- [ ] Code and Cirriculum (Syntax and logic)
+<br><br><br>
+- [ ] Day 2 Resource, Code, Examples
+- [ ] Resorces (W3 Schools, Predone Code, Etc)
+- [ ] Examples (Basic Website)
+- [ ] Code and Cirriculum (Syntax and logic)
+<br><br><br>
+- [ ] Day 3 Resource, Code, Examples
+- [ ] Resorces (W3 Schools, Predone Code, Etc)
+- [ ] Examples (Basic Website)
+- [ ] Code and Cirriculum (Syntax and logic)
+<br><br><br>
+- [ ] Day 4 Resource, Code, Examples
+- [ ] Resorces (W3 Schools, Predone Code, Etc)
+- [ ] Examples (Basic Website)
+- [ ] Code and Cirriculum (Syntax and logic)
+<br><br><br>
+- [ ] Day 5 Resource, Code, Examples
+- [ ] Resorces (W3 Schools, Predone Code, Etc)
+- [ ] Examples (Basic Website)
+- [ ] Code and Cirriculum (Syntax and logic)
+<br><br><br>
+
+
+
+
+
+
+
+
+
+
 
 ### Start Date - March 13, 4:00 pm
 
