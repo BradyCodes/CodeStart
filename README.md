@@ -30,7 +30,7 @@ Hampstead/Manchester Area
 - [ ] Add More info to the register pages
 - [ ] START ON SYLABUS FOR SUMMER CAMP
 
-
+<br><br><br>
 - [ ] Day 1:
 - [ ] Resorces (W3 Schools, Predone Code, Etc)
 - [ ] Examples (Basic Website)
