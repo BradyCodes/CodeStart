@@ -1,0 +1,14 @@
+main{
+    text-align: center;
+
+}
+
+.main{
+    text-align: center;
+
+}
+.links > h3 > a{
+    color: #000;
+}
+.links > h3 > a:hover{cursor: pointer;}
+.space{height: 100vh;}
