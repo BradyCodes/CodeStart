@@ -32,3 +32,25 @@ main{
     text-align:left;
     padding: 50px;
 }
+#CP{
+    display: inline-block;
+    text-align:left;
+    padding: 50px;
+}
+#reg{
+    display: inline-block;
+    text-align:left;
+    padding: 50px;   
+}
+
+.regbttn{
+    color: #fff;
+    padding: 15px;
+    background-color: #000;
+}
+.regbttn:hover{
+    background-color: #fff;
+    color: #000;
+    transition: 1s;
+    border: 1px solid black;
+}
