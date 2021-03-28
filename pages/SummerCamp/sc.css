@@ -16,7 +16,19 @@ main{
     display: inline-block;
     text-align: left;
     padding: 50px;
-}
+    }
 #syllabus > ul{
     list-style-type: none;
+}
+
+#scheduel{
+    display: inline-block;
+    text-align: left;
+    padding: 50px;
+}
+#scheduel > ul{list-style-type: none;}
+#code{
+    display: inline-block;
+    text-align:left;
+    padding: 50px;
 }
