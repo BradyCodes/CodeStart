@@ -1,5 +1,5 @@
 (function() {
-    emailjs.init("user_9GIoGw8r0z8WrEqHbdUkV");
+    emailjs.init("");
 })();
 
 
@@ -16,7 +16,7 @@
         
         function rsend(){
         //sends to person registering
-        emailjs.send('service_8y5p22k', 'template_hbtj6yf', templateParams, 'user_9GIoGw8r0z8WrEqHbdUkV')
+        emailjs.send('', '', templateParams, '')
             .then(function(response) {
             console.log('SUCCESS!', response.status, response.text);
             }, function(error) {
@@ -24,8 +24,8 @@
         });
        };
        //sends to me
-        emailjs.send('service_8y5p22k', 'template_g86a9wo', templateParams, 'user_9GIoGw8r0z8WrEqHbdUkV')
-            .then(function(response) {
+        emailjs.send('', '', templateParams, '')
+            .then(function(response) 
             console.log('SUCCESS!', response.status, response.text);
             setTimeout(() => {
                 document.location.href = "redir.html";
