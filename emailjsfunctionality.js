@@ -1,5 +1,5 @@
 (function() {
-    emailjs.init("YOUR USER ID");
+    emailjs.init("user_9GIoGw8r0z8WrEqHbdUkV");
 })();
 
 
@@ -16,7 +16,7 @@
         
         function rsend(){
         //sends to person registering
-        emailjs.send('YOUR SERVICE', 'YOUR TEMPLATE ID', templateParams, 'YOUR USER ID')
+        emailjs.send('service_8y5p22k', 'template_hbtj6yf', templateParams, 'user_9GIoGw8r0z8WrEqHbdUkV')
             .then(function(response) {
             console.log('SUCCESS!', response.status, response.text);
             }, function(error) {
@@ -24,7 +24,7 @@
         });
        };
        //sends to me
-        emailjs.send('YOUR SERVICE ID', 'YOUR TEMPLATE ID', templateParams, 'YOUR USER ID')
+        emailjs.send('service_8y5p22k', 'template_g86a9wo', templateParams, 'user_9GIoGw8r0z8WrEqHbdUkV')
             .then(function(response) {
             console.log('SUCCESS!', response.status, response.text);
             setTimeout(() => {
