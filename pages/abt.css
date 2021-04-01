@@ -1,0 +1,19 @@
+.aboutp{
+    padding: 40px;
+    display: grid;  
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 10px;
+    place-items: center;
+}
+
+
+
+
+
+
+/* @media screen 
+  and (min-device-width: 900px){
+    .aboutc{
+        padding-top: 32%;
+    }
+  } */
