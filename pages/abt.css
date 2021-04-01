@@ -2,14 +2,30 @@
     padding: 40px;
     display: grid;  
     grid-template-columns: 1fr 1fr;
-    grid-column-gap: 10px;
+    grid-column-gap: 25px;
     place-items: center;
 }
 
 
 
+.down-arrow{
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    background-color: #000;
+    color: #fff;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: inline-block;
+}
 
-
+.down-arrow:hover{
+    background-color: #fff;
+    color: #000;
+    border: 1px solid black;
+    transition: 1s;
+}
 
 /* @media screen 
   and (min-device-width: 900px){
