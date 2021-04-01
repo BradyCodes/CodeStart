@@ -19,7 +19,7 @@ Hampstead/Manchester Area
 - [x] Create Contact Page
 - [x] Make it so that you can call on mobile but see number on desktop
 - [x] Make Register Page
-- [ ] Make About Page
+- [x] Make About Page
 - [x] Better Readme (Screen Shots)
 - [x] Finish Landing Page
 - [ ] M A K E  L A N D I N G  P A G E  M O B I L E  F R I E N D L Y 
