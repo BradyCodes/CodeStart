@@ -2,6 +2,7 @@
     padding: 40px;
     display: grid;  
     grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
     grid-column-gap: 25px;
     place-items: center;
 }
@@ -27,9 +28,13 @@
     transition: 1s;
 }
 
-/* @media screen 
-  and (min-device-width: 900px){
-    .aboutc{
-        padding-top: 32%;
+@media screen and (max-width: 800px){
+    .aboutp{
+        grid-template-rows: 1fr 1fr;
+        grid-template-columns: 1fr;
     }
-  } */
+    .aboutimg > img{
+        width: 250px;
+        height: 250px;
+    }
+}

@@ -7,7 +7,6 @@ body{
     padding: 0;
     font-family: 'Lora', monospace;
 }
-
 .logo{
     padding: 15px;
     color: #000;
@@ -48,10 +47,6 @@ nav{
 }
 .special a {color: #000}
 .special a:hover{transition: 0.3s; color: #fff;}
-
-
-
-
 .mobile{
     text-align: right;
 
@@ -62,19 +57,91 @@ nav{
     text-decoration: none;
 
 }
-
 .menuiconpls:hover{
     cursor: pointer;
 }
-
-
 .mobileSection{
     text-align: center;
 }
 .mobileSection li{list-style-type: none;}
 .mobileSection li{padding: 15px;}
 .mobileSection li a{color: #000000; text-decoration: underline;}
+
+
+
+
+.comppage{
+    padding: 50px;
+    text-align: center;
+}
+.cview > .registergridcomp{
+    display: grid;
+    grid-template-rows: 1fr;
+}
+.cview > .registergridcomp > .options{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    background-color: #000;
+    color: #fff;
+}
+.cview > .registergridcomp > .options:hover{
+    transition: 0.5s;
+    color: #000;
+    background-color: #fff;
+    border: 1px solid black;
+}
+.cview > .registergridcomp > .titles{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    font-weight: bold;
+}
+
+.cview > .registergridcomp > .options > .container > .center > .book{
+    display: flex;
+    text-align: center;
+    color: #fff;
+    
+}
+.cview > .options:hover > .container > .center > a{
+    /**border: 1px solid black;**/
+    color: #fff;
+    padding: 6px 19px 6px 19px;
+    background-color: #000;
+    transition: 0.5s;
+}
+.cview > .registergridcomp > .options > .container {
+    position: relative;
+      }
+  
+      .cview > .registergridcomp > .options > .container > .center{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+
+  .cview > .contactformoreinfo{
+    color: #fff;
+}
+.cview > .options:hover > .datetime > .contactformoreinfo{
+    color: #000;
+    transition: 0.5s;
+}
+
+
+
+
+
+
 @media screen and (max-width: 800px){
+    
+    
+    
+    
+    
     .def{
         display: none;
     }
@@ -85,132 +152,17 @@ nav{
 
 }
 
-
-
-.comppage{
-    padding: 50px;
-    text-align: center;
+.phonepage{display: none;}
+@media screen and (max-width: 800px) {
+    .phonepage{display: block;}
+    .comppage{display: none;}
+    .cview{display: none;}
+    .mview{
+        display: block;
+    }
+    .mview > .registergridcomp > .options{
+        display: grid;
+        place-items: center;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    }
 }
-.registergridcomp{
-    display: grid;
-    grid-template-rows: 1fr;
-}
-.options{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    background-color: #000;
-    color: #fff;
-}
-.options:hover{
-    transition: 0.5s;
-    color: #000;
-    background-color: #fff;
-    border: 1px solid black;
-}
-.titles{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    font-weight: bold;
-}
-
-.book{
-    display: flex;
-    text-align: center;
-    color: #fff;
-    
-}
-.options:hover > .container > .center > a{
-    /**border: 1px solid black;**/
-    color: #fff;
-    padding: 6px 19px 6px 19px;
-    background-color: #000;
-    transition: 0.5s;
-}
-.container {
-    position: relative;
-      }
-  
-  .center {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-  }
-
-
-.contactformoreinfo{
-    color: #fff;
-}
-.options:hover > .datetime > .contactformoreinfo{
-    color: #000;
-    transition: 0.5s;
-}
-
-
-/* The Modal (background) */
-.modal {
-    display: none; /* Hidden by default */
-    position: fixed; /* Stay in place */
-    z-index: 1; /* Sit on top */
-    left: 0;
-    top: 0;
-    width: 100%; /* Full width */
-    height: 100%; /* Full height */
-    overflow: auto; /* Enable scroll if needed */
-    background-color: rgb(0,0,0); /* Fallback color */
-    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
-  }
-  
-  /* Modal Content/Box */
-  .modal-content {
-    background-color: #fefefe;
-    margin: 15% auto; /* 15% from the top and centered */
-    border: 1px solid #888;
-    width: 80%; /* Could be more or less, depending on screen size */
-  }
-
-  .modal-content > a{
-      padding: 15px;
-      border: 1px solid black;
-  }
-  .modal-content > h3, h1{
-      padding: 15px;
-  }
-  .modal-content > .close{
-      padding: 15px;
-  }
-  .popupcont{
-      padding: 15px;
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-  }
-
-  .setup{
-    font-family: 'Lora', Arial, Helvetica, sans-serif;
-  }
-  .setup > input{
-      border: none;
-      border-bottom: 1px solid black;
-      padding: 8px;
-  }
-  .container > a{
-      padding: 13px;
-      border: 1px solid black;
-  }
-  /* The Close Button */
-  .close {
-    color: #aaa;
-    float: right;
-    font-size: 28px;
-    font-weight: bold;
-  }
-  
-  .close:hover,
-  .close:focus {
-    transition: 0.3s;
-    color: black;
-    text-decoration: none;
-    cursor: pointer;
-  } 
