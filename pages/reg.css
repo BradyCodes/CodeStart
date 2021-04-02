@@ -152,7 +152,7 @@ nav{
 
 }
 
-.phonepage{display: none;}
+.mview{display: none;}
 @media screen and (max-width: 800px) {
     .phonepage{display: block;}
     .comppage{display: none;}
