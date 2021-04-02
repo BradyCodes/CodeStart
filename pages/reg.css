@@ -102,7 +102,7 @@ nav{
     color: #fff;
     
 }
-.cview > .options:hover > .container > .center > a{
+.cview > .registergridcomp > .options:hover > .container > .center > a{
     /**border: 1px solid black;**/
     color: #fff;
     padding: 6px 19px 6px 19px;
@@ -123,10 +123,10 @@ nav{
   }
 
 
-  .cview > .contactformoreinfo{
+  .cview > .registergridcomp > .options > .datetime > .contactformoreinfo{
     color: #fff;
 }
-.cview > .options:hover > .datetime > .contactformoreinfo{
+.cview > .registergridcomp > .options:hover > .datetime > .contactformoreinfo{
     color: #000;
     transition: 0.5s;
 }
