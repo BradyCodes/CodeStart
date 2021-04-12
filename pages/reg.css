@@ -165,4 +165,10 @@ nav{
         place-items: center;
         grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
     }
+    .options{
+        color: #fff;
+        background-color: #000;
+
+    }
+    .options > .container > .center > a {color: #fff;}
 }
