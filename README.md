@@ -2,7 +2,7 @@
 ## _Website for new teaching startup_
 
 !!!!!!! NOTE !!!!!!! 
-line 14-22 of register.html
+CSS IS ALMOST THERE!
 
 
 
@@ -69,7 +69,7 @@ Hampstead/Manchester Area
 
 ### Start Date - March 13, 4:00 pm
 
-### Last Updated: March 29, 9:33pm
+### Last Updated: April 12, 9:10pm
 
 ### Finished: ___________
 
