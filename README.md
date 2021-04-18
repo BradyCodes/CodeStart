@@ -1,9 +1,8 @@
 # CodeStart
 ## _Website for new teaching startup_
 
-!!!!!!! NOTE !!!!!!! 
-CSS IS ALMOST THERE!
-
+# STATUS UPDATE: I will be finishing this project, but I am currently focusing my efforts on another project. If any of you want to clone this and try to fix some of the problems, please do!
+# Thanks, Brady :)
 
 
 <br>
