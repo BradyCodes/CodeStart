@@ -24,7 +24,7 @@ Hampstead/Manchester Area
 - [x] Register Popup / new page?
 - [x]     Finish styling
 - [x]     Email.js
-- [ ] register.html Mobile Friendly
+- [x] register.html Mobile Friendly
 - [x] Add More info to the register pages
 - [x] START ON SYLABUS FOR SUMMER CAMP
 
