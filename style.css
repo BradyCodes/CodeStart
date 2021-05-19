@@ -58,6 +58,7 @@ nav{
 
 .mobile{
     text-align: right;
+    padding-bottom: 100px;
 
 }
 .dropdown > a{
@@ -84,13 +85,14 @@ nav{
     }
     .mobile{
         color: #000;
+        background-color: #fff;
         display: block;
     }
     .mobii{
         display: block;
+        color: #000;
     }
-    
-
+    main > .mobii > .title > h1, main > .mobii > .title > h3{color: black;} 
 }
 
 

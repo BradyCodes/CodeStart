@@ -163,7 +163,7 @@ nav{
     .mview > .registergridcomp > .options{
         display: grid;
         place-items: center;
-        grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+        height: 60px;
     }
     .options{
         color: #fff;
