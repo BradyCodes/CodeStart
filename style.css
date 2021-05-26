@@ -79,22 +79,6 @@ nav{
 .mobileSection li{list-style-type: none;}
 .mobileSection li{padding: 15px;}
 .mobileSection li a{color: #000000; text-decoration: underline;}
-@media screen and (max-width: 800px){
-    .def{
-        display: none;
-    }
-    .mobile{
-        color: #000;
-        background-color: #fff;
-        display: block;
-    }
-    .mobii{
-        display: block;
-        color: #000;
-    }
-    main > .mobii > .title > h1, main > .mobii > .title > h3{color: black;} 
-}
-
 
 
 
@@ -136,8 +120,37 @@ nav{
 }
 
 
+
 .mobii{
     display: none;
     background-image: none;
     color: #000;
 }
+.mobiihome{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+}
+.mobiiaspecial{
+    border: 1px solid black;
+    text-decoration: none;
+    padding: 15px; 
+    color: #fff;
+    background-color: #000;
+}
+@media screen and (max-width: 800px){
+    .def{
+        display: none;
+    }
+    .mobile{
+        color: #000;
+        background-color: #fff;
+        display: block;
+    }
+    .mobii{
+        display: block;
+        color: #000;
+    }
+    main > .mobii > .title > h1, main > .mobii > .title > h3{color: black;} 
+}
+
